@@ -2,7 +2,9 @@
 <!DOCTYPE.html>
 <html>
   <head>
-    <style></style>
+    <style>
+      <p style="background-color:White>
+    </style>
   </head>
   <body>
     <body style="background-color:black"/>
