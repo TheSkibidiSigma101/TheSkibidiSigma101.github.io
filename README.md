@@ -2,6 +2,6 @@
 <!DOCTYPE.html>
 <html>
   <head>
-    <title>Jiu jitsu: My Favorite Sport
+    <title>Jiu jitsu: My Favorite Sport</title>
   </head>
 </html>
