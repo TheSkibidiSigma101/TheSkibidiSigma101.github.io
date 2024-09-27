@@ -2,8 +2,7 @@
 <!DOCTYPE.html>
 <html>
   <head>
-    <style>
-      <p style="background-color:White>
+    <style><p style="background-color:White>
     </style>
   </head>
   <body>
